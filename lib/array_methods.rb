@@ -8,6 +8,7 @@ while count < array.length do
 end
 nil
 end 
+
 def find_max_value(array)
  
  array.to_a.max
